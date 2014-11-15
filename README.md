@@ -8,6 +8,8 @@ Vagrant setup for Drupal 8. Code taken from http://drupal.org/project/vdd with s
     $ git clone https://github.com/arshad/vagrant-d8.git vagrant-SITENAME
     $ cd vagrant-SITENAME
     
+Replace SITENAME with the name of your site.
+    
 Edit config.json and configure IP, Site name, and Git. Then run:
     
     $ vagrant up
